@@ -1,5 +1,5 @@
 # hello.c
-An example package for the clib package manager.
+An example package for the [clib](https://github.com/clibs/clib) package manager.
 
 (Use this as boilerplate which you can fork and edit.)
 
