@@ -13,8 +13,6 @@ $ clib install pepaslabs/hello.c
 
 ## API
 
-## API
-
 ```c
 void hello();
 ```
